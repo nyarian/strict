@@ -1,0 +1,6 @@
+name: strict
+description: Strict rules set for dart analyzer and linter
+version: 1.0.0
+
+dependencies:
+  pedantic: ^1.7.0
