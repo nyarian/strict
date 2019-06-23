@@ -6,6 +6,3 @@ homepage: https://github.com/nyarian/strict
 
 environment:
   sdk: ">=2.0.0 <3.0.0"
-
-dependencies:
-  pedantic: ^1.7.0
